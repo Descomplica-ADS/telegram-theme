@@ -2,7 +2,7 @@
 > 🎨Temas da Faculdade Descomplica para o Telegram - WIP 🚧
 
 ## Como usar
-1. Verifique se você tem o [Telegram][https://telegram.org/apps] mais recente
+1. Verifique se você tem o [Telegram](https://telegram.org/apps) mais recente
 2. Baixe o arquivo para a plataforma que vai usar(Desktop ou Android)
 3. Envie o arquivo para qualquer conversa e clique nele
 
